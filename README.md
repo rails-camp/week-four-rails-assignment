@@ -7,7 +7,7 @@
 * [ ] Create a new file and require `rubygems` and `httparty`, after installation.
 * [ ] Create a class that includes HTTParty and the base uri.
 * [ ] Create a method that uses the `get` request to grab posts via json.  
-* [ ] Create an new instance of the class, put it in a varible and print it out.
+* [ ] Create an new instance of the class, put it in a variable and print it out.
 * [ ] Run file in terminal to make sure the API was called correctly. Both posts should be called. 
 
 ## Instructions
